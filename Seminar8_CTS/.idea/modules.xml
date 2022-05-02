@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_CTS.iml" filepath="$PROJECT_DIR$/Seminar8_CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex12/ex12.iml" filepath="$PROJECT_DIR$/ex12/ex12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex13_memento/ex13_memento.iml" filepath="$PROJECT_DIR$/ex13_memento/ex13_memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex14/ex14.iml" filepath="$PROJECT_DIR$/ex14/ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex15/ex15.iml" filepath="$PROJECT_DIR$/ex15/ex15.iml" />
+    </modules>
+  </component>
+</project>
